@@ -5,9 +5,13 @@ It uses nw.js for some basic gui and a module I wrote in node.js for calculating
 For prime numbers the script equally splits the work in all cpu threads.
 
 Some info::
+
 Node.js https://nodejs.org/en/
+
 Nw.js https://github.com/nwjs/nw.js
+
 Prime Numbers https://en.wikipedia.org/wiki/Prime_number 
+
 
 
 To Run::
